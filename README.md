@@ -1,3 +1,3 @@
 # GitDemo
 This is a Demo Project.<br>
-Author:-Priyanshu Pradhan
+Author:-Priyanshu Pradhan(Software Developer)
